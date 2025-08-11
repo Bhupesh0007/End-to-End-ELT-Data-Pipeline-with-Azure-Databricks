@@ -1,5 +1,7 @@
 # End-to-End ELT Data Pipeline with Azure Databricks
 
+![image](https://raw.githubusercontent.com/Bhupesh0007/spotify_etl_pipeline/refs/heads/main/spotify_pipeline_architecture_diagram.webp)
+
 ## 🚀 Introduction
 
 This project implements a modern ELT data pipeline using Azure Databricks and the Medallion Architecture. It processes raw Parquet files from Azure Data Lake Storage (ADLS), refines them through Bronze, Silver, and Gold layers, and creates business-ready dimensional models suitable for analytics.
