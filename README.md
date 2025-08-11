@@ -1,6 +1,6 @@
 # End-to-End ELT Data Pipeline with Azure Databricks
 
-![image](https://raw.githubusercontent.com/Bhupesh0007/spotify_etl_pipeline/refs/heads/main/spotify_pipeline_architecture_diagram.webp)
+![image](pipeline.png)
 
 ## 🚀 Introduction
 
